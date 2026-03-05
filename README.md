@@ -11,6 +11,7 @@
 ## 作業連結區
 
 ### 作業一
+[https://colab.research.google.com/drive/1VnHXRxIHRkpzeK90UWYtv8aNPbkY064D?usp=sharing](https://colab.research.google.com/drive/1VnHXRxIHRkpzeK90UWYtv8aNPbkY064D?usp=sharing)
 
 ### 作業二
 
