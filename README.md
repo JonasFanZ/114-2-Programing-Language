@@ -13,11 +13,9 @@
 ### 作業一
 [week2隨堂練習](「HW1_日常支出速算與分攤_ipynb」.ipynb)
 
-[Google Sheet](https://docs.google.com/spreadsheets/d/1V4jupaF0rdVdEDwVR6QghG1pNb1bQFStDaN9zC4C2X4/edit?usp=sharing)
 
 [week3隨堂練習](「HW1_日常支出速算與分攤_Gradio_ipynb」.ipynb)
 
-[Google Sheet](https://docs.google.com/spreadsheets/d/1raqHTcfTEmii7em7_tr0TIdL9EhD8jaCQ2TAICWEHMo/edit?usp=sharing)
 
 ### 作業二
 
