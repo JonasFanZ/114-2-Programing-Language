@@ -19,7 +19,7 @@
 [week4正式版](HW1_日常支出速算與分攤_正式版.ipynb)
 ### 作業二
 [week7正式版](「HW2_成績一本通_ipynb」.ipynb)
-影片連結(還沒錄好)
+[影片連結](https://youtu.be/XFm3MODdPks)
 
 ### 作業三
 
