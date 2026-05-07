@@ -22,6 +22,8 @@
 [影片連結](https://youtu.be/XFm3MODdPks)
 
 ### 作業三
+[week11正式版](「HW3_待辦清單與番茄鐘紀錄_ipynb」.ipynb)
+[影片連結](https://youtu.be/KhBIqdFp91A?si=fUwrEiJ5oDCe0Sb2)
 
 ### 作業四
 
