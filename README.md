@@ -26,5 +26,7 @@
 [影片連結](https://youtu.be/KhBIqdFp91A?si=fUwrEiJ5oDCe0Sb2)
 
 ### 作業四
+[week14正式版](HW4_RAG.ipynb)
+[影片連結] (還沒拍影片)
 
 ## 專題連結區
